@@ -1,0 +1,2 @@
+Classe: 'Receita do objeto', EX: um veiculo tem um modelo, cor, rodas etc.
+Objeto: Pagamos a Classe e instanciamos ela, e cria um objeto real a partir da classe
